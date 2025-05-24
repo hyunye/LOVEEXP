@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "discord.js": "^14.19.3",
+    "typescript": "^5.8.3"
+  },
+  "scripts": {
+    "main": "npx tsc && node main.js"
+  }
+}
